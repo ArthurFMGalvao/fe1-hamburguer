@@ -19,7 +19,7 @@ body {
     top: 50px;
     display: flex;
     position: relative;
-    top: 700px;
+    top: 900px;
 }
 
 
@@ -28,11 +28,19 @@ body {
     top: 50px;
     display: flex;
     position: relative;
-    top: 500px;
+    top: 700px;
 }
 
 .hamburguer {
     z-index: 3;
+    top: 40px;
+    display: flex;
+    position: relative;
+    top: 450px;
+}
+
+.queijo-2 {
+    z-index: 2;
     top: 40px;
     display: flex;
     position: relative;
